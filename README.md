@@ -8,4 +8,4 @@ Implement
 * [Others](https://github.com/justjavac/free-programming-books-zh_CN#python)
 
 ##Schedule
-*Learn basic grammar-before Feb.
+* Learn basic grammar-before Feb.
